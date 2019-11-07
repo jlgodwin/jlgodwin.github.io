@@ -1,3 +1,4 @@
+#Site settings
 theme: jekyll-theme-minimal
 title: "Jessica Godwin"
 description: "Ph.D. Candidate, University of Washington Dept. of Statistics | CSDE Fellow | MPIDR" 
@@ -8,3 +9,10 @@ url: "https://jlgodwin.github.io"
 repo: "https://github.com/jlgodwin/jlgodwin.github.io"
 email: "jlg0003@uw.edu"
 logo: "godwin.jpg"
+
+# Site navigation
+navigation_header:
+ Home: /
+ #CV: /Files/CV.pdf
+ #Teaching:
+ Github: https://github.com/jlgodwin
