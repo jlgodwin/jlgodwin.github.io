@@ -6,7 +6,7 @@ feature_text: |
   UW Dept. of Statistics
   CSDE Fellow
   Makes a mean cornbread
-feature_image: "Images/godwin.jpg"
+feature_image: "/Images/godwin.jpg"
 ---
 
 ## About me
