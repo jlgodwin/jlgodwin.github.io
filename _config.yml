@@ -5,13 +5,12 @@ description: |
   Ph.D. Candidate
   University of Washington Dept. of Statistics
   CSDE Fellow
-logo: "./godwin.jpg"
+logo: "/Images/godwin.jpg"
 encoding: utf-8
 lang: en-US
 url: "https://jlgodwin.github.io"
 repo: "https://github.com/jlgodwin/jlgodwin.github.io"
 email: "jlg0003@uw.edu"
-logo: "godwin.jpg"
 
 # Site navigation
 navigation_header:
