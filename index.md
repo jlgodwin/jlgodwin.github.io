@@ -3,9 +3,9 @@ title: About me
 feature_text: |
         ## Jessica Godwin
         Ph.D. Candidate
-        University of Washington Dept. of Statistics
-        CSDE Fellow | MPIDR
-        Makes a mean cornbread.
+        UW Dept. of Statistics
+        CSDE Fellow
+        Makes a mean cornbread
 feature_image: "godwin.jpg"
 ---
 
