@@ -3,8 +3,11 @@ theme: jekyll-theme-minimal
 title: "Jessica Godwin"
 description: 
   Ph.D. Candidate
+  
   UW Dept. of Statistics
+  
   CSDE Fellow
+  
   Makes a mean cornbread
 logo: "/Images/godwin.jpg"
 encoding: utf-8
