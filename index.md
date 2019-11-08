@@ -1,11 +1,11 @@
 ---
 title: About me
 feature_text: |
-        ## Jessica Godwin
-        Ph.D. Candidate
-        UW Dept. of Statistics
-        CSDE Fellow
-        Makes a mean cornbread
+  ## Jessica Godwin
+  Ph.D. Candidate
+  UW Dept. of Statistics
+  CSDE Fellow
+  Makes a mean cornbread
 feature_image: "godwin.jpg"
 ---
 
