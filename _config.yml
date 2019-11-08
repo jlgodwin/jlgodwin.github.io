@@ -1,7 +1,10 @@
 #Site settings
 theme: jekyll-theme-minimal
 title: "Jessica Godwin"
-description: "Ph.D. Candidate\n\n University of Washington Dept. of Statistics\n\n CSDE Fellow" 
+description: |
+  Ph.D. Candidate
+  University of Washington Dept. of Statistics
+  CSDE Fellow
 logo: "./godwin.jpg"
 encoding: utf-8
 lang: en-US
