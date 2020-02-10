@@ -12,6 +12,6 @@ email: "jlg0003@uw.edu"
 # Site navigation
 navigation_header:
  Home: /
- CV: /Files/CV.pdf
+ CV: "CV.pdf"
  #Teaching:
  Github: https://github.com/jlgodwin
