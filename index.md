@@ -8,4 +8,4 @@ Ph.D student in the Department of Statistics at the University of Washington. My
 
 Born and raised in Alabama, I received my M.S. in Statistics at Auburn University. My thesis titled "Group lasso for functional logistic regression" was advised by [Nedret Billor](http://webhome.auburn.edu/~billone/). I received a B.S. in Actuarial Science from Auburn University as well. War eagle!!! 
 
-![](./AU.jpg =5x)
+<img src="./AU.jpg" width="10">
