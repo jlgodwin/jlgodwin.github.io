@@ -9,9 +9,25 @@ url: "https://jlgodwin.github.io"
 repo: "https://github.com/jlgodwin/jlgodwin.github.io"
 email: "jlg0003@uw.edu"
 
+plugins:
+- jekyll-sitemap
+- jekyll-mentions
+- jekyll-paginate
+- jekyll-seo-tag
+- jekyll-redirect-from
+- jekyll-default-layout
+- jekyll-feed
+- jemoji
+- jekyll-remote-theme
+
 # Site navigation
 navigation_header:
- Home: /
- CV: "CV.pdf"
+ - title: Home
+  url: /
+- title: CV
+  url: ./CV.pdf
+- title: Twitter
+  url: https://www.twitter.com/j_l_godwin
  #Teaching:
- Github: https://github.com/jlgodwin
+- title: Github
+  url: https://github.com/jlgodwin
