@@ -1,3 +1,6 @@
+exclude:
+- Gemfile
+
 #Site settings
 theme: jekyll-theme-minimal
 title: "Jessica Godwin"
