@@ -25,8 +25,7 @@ email: "jlg0003@uw.edu"
 
 # Site navigation
 navigation_header:
- - title: "Home"
-  url: /
+ Home: /
 #- title: "CV"
 #  url: ./CV.pdf
 #- title: "Twitter"
