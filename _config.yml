@@ -11,7 +11,7 @@ logo: "/Images/godwin.jpg"
 encoding: utf-8
 lang: en-US
 url: "https://jlgodwin.github.io"
-repo: "https://github.com/jlgodwin/jlgodwin.github.io"
+#repo: "https://github.com/jlgodwin/jlgodwin.github.io"
 email: "jlg0003@uw.edu"
 
 #plugins:
