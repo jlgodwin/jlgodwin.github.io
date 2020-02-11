@@ -14,4 +14,4 @@ My dissertation, titled "Estimating Mortality at the Subnational Level in a Low 
 Born and raised in Alabama, I received my M.S. in Statistics at Auburn University. My thesis, titled "Group lasso for functional logistic regression", was advised by [Nedret Billor](http://webhome.auburn.edu/~billone/). I received a B.S. in Actuarial Science from Auburn University as well. War eagle!!!  <img src="./AU.jpg" width="22">
 
 ## Contact me
-Email: jlg0003 at uw dot edu | [Twitter](https://www.twitter.com/j_l_godwin) | [Google Scholar](https://scholar.google.com/citations?user=a33WpAcAAAAJ&hl=en)
+[Email](mailto:jlg0003@uw.edu) | [Google Scholar](https://scholar.google.com/citations?user=a33WpAcAAAAJ&hl=en) | [Twitter](https://www.twitter.com/j_l_godwin) | [Github](https://github.com/jlgodwin)
