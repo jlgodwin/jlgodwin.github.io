@@ -4,7 +4,7 @@ exclude:
 #Site settings
 theme: jekyll-theme-minimal
 title: "Jessica Godwin"
-description: "Ph.D. Candidate | CSDE Fellow \n Makes a mean cornbread"
+description: "Ph.D. Candidate | CSDE Fellow \n\nMakes a mean cornbread"
 logo: "/Images/godwin.jpg"
 encoding: utf-8
 lang: en-US
