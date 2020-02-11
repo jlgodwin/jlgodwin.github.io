@@ -4,7 +4,7 @@ layout: default
 ---
 
 ## About me
-I am a Ph.D Candidate in the Department of Statistics and a Fellow of the Center for Studies in Demography & Ecology at the University of Washington. My broad research interests include statistical demography, spatiotemporal methods, mortality, and spatial health inequalities. Find my CV [here](./CV.pdf).
+I am a Ph.D Candidate in the Department of Statistics and a Fellow of the Center for Studies in Demography & Ecology at the University of Washington. My broad research interests include statistical demography, spatiotemporal methods, mortality, and spatial health inequalities. For more information, see my [CV](./CV.pdf).
 
 My dissertation, titled "Estimating Mortality at the Subnational Level in a Low and Middle Income Countries Context", focuses on Bayesian spatiotemporal models for child mortality and is supervised by [Jon Wakefield](https://faculty.washington.edu/jonno/). Specifically, it addresses the following three questions:
 * Can we make subnational estimates of under-five mortality at the Admin-2 level using both complex household surveys and census data?
