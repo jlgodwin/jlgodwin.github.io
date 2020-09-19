@@ -1,6 +1,7 @@
 ---
 title: Teaching
 layout: default
+permalink: /teaching/
 ---
 
 # Teaching
