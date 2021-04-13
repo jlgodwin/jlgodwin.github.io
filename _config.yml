@@ -5,8 +5,8 @@ exclude:
 theme: jekyll-theme-minimal
 title: "Jessica Godwin"
 description: >
-  Makes a mean cornbread <br />
-  <a href="https://www.twitter.com/j_l_godwin">Twitter</a> | <a href="https://github.com/jlgodwin">GitHub</a> | <a href="https://scholar.google.com/citations?user=a33WpAcAAAAJ&hl=en">Google Scholar</a> | <a href="./CV.pdf">CV</a> 
+  <a href="https://www.twitter.com/j_l_godwin">Twitter</a> | <a href="https://github.com/jlgodwin">GitHub</a> | <a href="https://scholar.google.com/citations?user=a33WpAcAAAAJ&hl=en">Google Scholar</a> | <a href="./CV.pdf">CV</a> <br />
+   Makes a mean cornbread 
 logo: "/Images/godwin.jpg"
 encoding: utf-8
 lang: en-US
