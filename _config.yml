@@ -4,8 +4,8 @@ exclude:
 #Site settings
 theme: jekyll-theme-minimal
 title: "Jessica Godwin"
-description: >
-  UW Stat | CSDE | [CV](./CV.pdf) <br />
+description: ><a href="link to blog post or whatever">benchmarks</a>
+  UW Stat | CSDE | <a href="./CV.pdf">CV</a> <br />
   Makes a mean cornbread
 logo: "/Images/godwin.jpg"
 encoding: utf-8
