@@ -5,7 +5,7 @@ exclude:
 theme: jekyll-theme-minimal
 title: "Jessica Godwin"
 description: >
-  Ph.D. Candidate | CSDE Fellow <br />
+  UW Stat | CSDE | [CV](./CV.pdf) <br />
   Makes a mean cornbread
 logo: "/Images/godwin.jpg"
 encoding: utf-8
