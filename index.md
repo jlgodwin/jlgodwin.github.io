@@ -3,7 +3,7 @@ title: About me
 layout: default
 ---
 
-I am a Ph.D candidate at the University of Washington in the [Department of Statistics](https://stat.uw.edu/), a fellow of the [Center for Studies in Demography & Ecology](https://csde.washington.edu/), and briefly a visiting member of the Lab of [Digital and Compuational Demography](https://www.demogr.mpg.de/en/research_6120/digital_and_computational_demography_5555) at that Max Planck Institute for Demographic Research. My broad research interests include demography, Bayesian spatiotemporal methods, survey statistics, and the places where all of those things overlap.
+I am a Ph.D candidate at the University of Washington in the [Department of Statistics](https://stat.uw.edu/), a fellow of the [Center for Studies in Demography & Ecology](https://csde.washington.edu/), and was formerly a visiting member of the Lab of [Digital and Compuational Demography](https://www.demogr.mpg.de/en/research_6120/digital_and_computational_demography_5555) at that Max Planck Institute for Demographic Research. My broad research interests include demography, Bayesian spatiotemporal methods, survey statistics, and the places where all of those things overlap.
 
 My dissertation, "Spatiotemporal Estimation of Period Child Mortality in a Low and Middle Income Countries Context", focuses on Bayesian spatiotemporal methods for child mortality in countries that rely on household survey data to estimate demographic indicators and is supervised by [Jon Wakefield](https://faculty.washington.edu/jonno/). Specifically, it addresses the following three questions:
 
