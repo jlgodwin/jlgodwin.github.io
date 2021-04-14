@@ -9,15 +9,10 @@ I am a Ph.D candidate in the [Department of Statistics](https://stat.uw.edu/) at
 Born and raised in Alabama, I received my M.S. in Statistics at Auburn University. My thesis, titled "Group lasso for functional logistic regression", was advised by [Nedret Billor](http://webhome.auburn.edu/~billone/). I also received a B.S. in Actuarial Science and a minor in tailgating from the loveliest village on the plains. War eagle!!!  <img src="./AU.jpg" width="22">
 
 # What am I working on now?
+
 ## Dissertation
-**Title**  
-Spatiotemporal estimation of period child mortality in a low and middle income countries context  
 
-**Adviser**  
-Jon Wakefield  
-
-**Topic**  
-Statistical and demographic methods to improve subnational estimation of child mortality in countries that rely on complex household surveys to provide comprehensive demographic and health information about the population. Specifically, it addresses the following three questions:
+My thesis, "Spatiotemporal estimation of period child mortality in a low and middle income countries context", focuses on statistical and demographic methods to improve subnational estimation of child mortality in countries that rely on complex household surveys to provide comprehensive demographic and health information about the population.  Specifically, it addresses the following three questions:
 
 1. How can estimates of period child mortality vary across demographic definitions and statistical methods of estimation when using full birth histories from complex household surveys?
 2. Can we combine both design-based direct full birth histories from complex surveys with summary birth histories from censuses and surveys in a discrete space-time smoothing model to make estimates of child mortality at the Admin-2 level?  
