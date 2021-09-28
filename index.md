@@ -4,7 +4,9 @@ layout: default
 ---
 
 # About me
-I am a Ph.D candidate in the [Department of Statistics](https://stat.uw.edu/) at the University of Washington, a fellow of the [Center for Studies in Demography & Ecology](https://csde.washington.edu/), and formerly a visiting member of the [Lab of Digital and Compuational Demography](https://www.demogr.mpg.de/en/research_6120/digital_and_computational_demography_5555) at that Max Planck Institute for Demographic Research. My dissertation is advised by [Jon Wakefield](https://faculty.washington.edu/jonno/). My broad research interests include demography, Bayesian spatiotemporal methods, survey statistics, and the places where all of those things overlap.  
+Currently, I am the Interim Training Director at the [Center for Studies in Demography & Ecology (CSDE)](https://csde.washington.edu/). My roles include support and training for graduate students at CSDE as they pursue demographic and population research, statistical and demographic methods consulting, and developing new forums for scientific communitication of demographic research within research communities and also with the public.
+
+I recently received my Ph.D. from the [Department of Statistics](https://stat.uw.edu/) at the University of Washington. I was a fellow of and received training in demographic methods from CSDE. My dissertation was advised by [Jon Wakefield](https://faculty.washington.edu/jonno/). My broad research interests include demography, Bayesian spatiotemporal methods, survey statistics, and the places where all of those things overlap.
 
 Born and raised in Alabama, I received my M.S. in Statistics at Auburn University. My thesis, titled "Group lasso for functional logistic regression", was advised by [Nedret Billor](http://webhome.auburn.edu/~billone/). I also received a B.S. in Actuarial Science and a minor in tailgating from the loveliest village on the plains. War eagle!!!  <img src="./AU.jpg" width="22">
 
