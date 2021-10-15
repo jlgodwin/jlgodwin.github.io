@@ -18,7 +18,7 @@ I was the Project Lead for the 2021 cohort of the [Applied Research Fellowship P
 
 ## Dissertation
 
-My thesis, "Spatiotemporal estimation of period child mortality in a low and middle income countries context", focuses on statistical and demographic methods to improve subnational estimation of child mortality in countries that rely on complex household surveys to provide comprehensive demographic and health information about the population.  Specifically, it addresses the following three questions:
+My thesis, ["Spatiotemporal estimation of period child mortality in a low and middle income countries context"](https://drive.google.com/file/d/1-QrUfMIBQ60xM0Mt7ZLowMSjdQsXKH97/view?usp=sharing), focuses on statistical and demographic methods to improve subnational estimation of child mortality in countries that rely on complex household surveys to provide comprehensive demographic and health information about the population.  Specifically, it addresses the following three questions:
 
 1. How can estimates of period child mortality vary across demographic definitions and statistical methods of estimation when using full birth histories from complex household surveys?
    - Manuscript in progress.
