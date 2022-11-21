@@ -3,8 +3,6 @@ title: Jessica Godwin
 layout: default
 ---
 
-Jessica is a Statistical Demographer and the Training Director for the Center for Studies in Demography & Ecology (CSDE) at the University of Washington. Their roles include support and training for CSDE students pursuing demographic and population research and providing consulting in statistical and demographic methods to CSDE faculty affiliates and students. Their broad research interests include demographic methods, Bayesian spatiotemporal methods, survey statistics, and the places where all of those things overlap. Jessica is passionate about teaching, mentorship, and research applications that improve the lives of people and communities, all things fundamental to DSSG! Jessica received her Ph.D. from the Department of Statistics at the UW and is a former CSDE Trainee and Fellow. Born and raised in Alabama, they received their M.S. in Statistics and B.S. in Actuarial Science at Auburn University. War eagle!
-
 # About me
 Currently, I am a Statistical Demographer and the Training Director at the [Center for Studies in Demography & Ecology (CSDE)](https://csde.washington.edu/). My roles include support and training for CSDE students pursuing demographic and population research and providing consulting in statistical and demographic methods to CSDE faculty affiliates and students.  I am passionate about teaching, mentorship, and research applications that improve the lives of people and communities
 
