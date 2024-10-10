@@ -22,6 +22,15 @@ Please see [my CV](https://jlgodwin.github.io/CV.pdf) for my full history of tea
 
 ### Workshops & Intensives
 
-**CSSS Math Camp:** 
+**CSDE Workshops: Introduction to R**
+   * [I: Objects & Programming](https://github.com/jlgodwin/Intro-to-R-I)
+   * [II: Working with Data](https://github.com/jlgodwin/Intro-to-R-II)
+   * [III: Data Visualization](https://github.com/jlgodwin/Intro-to-R-II)
+
+**CSDE Workshops: Introduction to Bayesian Statistics**
+   * [I: Likelihoods, Priors & Posteriors](https://github.com/jlgodwin/IntroBayesPartI)
+   * [I: Computation](https://github.com/jlgodwin/IntroBayesPartII)
+
+**CSSS Math Camp** 
    *  [September 21-25, 2020](https://github.com/jlgodwin/MathCamp)
    *  Review of algebra, matrices, calculus, and probability with small introducation to R to aid preparation for CSSS and other statistics courses. 
