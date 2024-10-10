@@ -3,7 +3,7 @@ title: Jessica Godwin
 layout: default
 ---
 
-[**Teaching**](https://jlgodwin.github.io/teaching) | [**Research**](https://jlgodwin.github.io/research)
+[**Teaching**](https://jlgodwin.github.io/teaching) | [**Research**](https://jlgodwin.github.io/research) | [**CV**](https://jlgodwin.github.io/CV.pdf)
 # About me
 Currently, I am a Statistical Demographer and the Training Director at the [Center for Studies in Demography & Ecology (CSDE)](https://csde.washington.edu/). My roles include support and training for CSDE students pursuing demographic and population research and providing consulting in statistical and demographic methods to CSDE faculty affiliates and students.  I am passionate about teaching, mentorship, and research applications that improve the lives of people and communities
 
